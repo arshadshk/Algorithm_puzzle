@@ -1,0 +1,21 @@
+This repo contains code for various Algorithm puzzle.
+
+1.The Other Wolf-Goat-Cabbage Puzzle
+You have 4n counters of four types: n wolfs, n goats, n cabbages, and
+n hunters. The object is to place the counters in a row such that no one is in
+danger; that is, no hunter is next to a wolf, no wolf is next to a goat, and no
+goat is next to a cabbage. In addition, no two counters of the same kind may
+be next to each other either. How many ways are there to solve the puzzle?
+
+2. Lighter or Heavier?
+You have n > 2 identical-looking coins and a two-pan balance scale with
+no weights. One of the coins is a fake, but you do not know whether it is
+lighter or heavier than the genuine coins, which all weigh the same. Design
+an algorithm to determine in the minimum number of weighings whether
+the fake coin is lighter or heavier than the others.
+
+3.The Prince’s Tour
+Consider a special chess piece—to be called here a “prince”–that can move
+one square to the right, or one square downward, or one square diagonally
+upward to the left. Find all values of n for which a prince can visit all the
+squares of an n × n board exactly once on the same tour.
